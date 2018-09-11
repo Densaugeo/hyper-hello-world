@@ -2,6 +2,8 @@
 name = "hyper-hello-world"
 version = "0.1.0"
 authors = ["Densaugeo"]
+description = "Rust Hyper's hello world example with explanations for C devs"
+license = "MIT"
 
 [dependencies]
 hyper = "0.12.8"
