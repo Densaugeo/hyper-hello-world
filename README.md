@@ -23,3 +23,9 @@ cargo run --bin full
 # Check server for response
 curl 127.0.0.1:3000
 ~~~
+
+## TODO
+
+- Can it print the startup message after starting?
+- Cargo.toml stuff
+- Not-unit test?
