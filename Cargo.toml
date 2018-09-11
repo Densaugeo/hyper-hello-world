@@ -1,0 +1,8 @@
+[package]
+name = "hyper-hello-world"
+version = "0.1.0"
+authors = ["Densaugeo"]
+
+[dependencies]
+hyper = "0.12.8"
+futures = "0.1.23"
