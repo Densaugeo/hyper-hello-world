@@ -1,6 +1,6 @@
 [package]
 name = "hyper-hello-world"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Densaugeo"]
 description = "Rust Hyper's hello world example with explanations for C devs"
 license = "MIT"
