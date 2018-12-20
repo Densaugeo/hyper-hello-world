@@ -1,10 +1,8 @@
-extern crate hyper;
-
 use hyper::{Body, Request, Response, Server};
 use hyper::rt::Future;
 use hyper::service::service_fn;
 
-static TEXT: &str = "Hello, World!\n";
+static TEXT: &str = "Hello World!\n";
 
 // This request handler returns a Result which could have an Error (except it always returns Ok in this 
 // example)

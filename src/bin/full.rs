@@ -1,6 +1,3 @@
-extern crate hyper;
-extern crate futures;
-
 use hyper::{Body, Request, Response, Server};
 use hyper::rt::Future;
 use hyper::server::Builder;

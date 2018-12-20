@@ -7,6 +7,7 @@ license = "MIT"
 readme = "README.md"
 repository = "https://github.com/Densaugeo/hyper-hello-world"
 homepage = "https://github.com/Densaugeo/hyper-hello-world"
+edition = "2018"
 
 [dependencies]
 hyper = "0.12.8"
