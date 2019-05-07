@@ -6,7 +6,7 @@ Rust Hyper's hello world example with explanations for C devs
 
 ## Purpose
 
-When I saw Hyper's hello world example, I wondered what all those closures and futures were doing, so I rewrote in a more traditional style and stripped out the syntax sugar. In this repo are four source files, beginning with the original hello world in `base.rs` and progressivley explicating parts until reaching `full.rs`.
+When I saw Hyper's hello world example, I wondered what all those closures and futures were doing, so I rewrote in a more traditional style and stripped out the syntax sugar. In this repo are four source files, beginning with the original hello world in `base.rs` (taken from the example on https://hyper.rs/) and progressively explicating parts until reaching `full.rs`.
 
 ## Building and Running
 
